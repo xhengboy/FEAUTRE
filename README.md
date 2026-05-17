@@ -1,4 +1,4 @@
-<img width="736" height="813" alt="image" src="https://github.com/user-attachments/assets/f5f9774c-1efc-4133-8ba8-4cb00c217b4a" />
+<img width="732" height="809" alt="image" src="https://github.com/user-attachments/assets/ebcd109b-4a30-4825-9f78-248dd1694f85" />
 
 Image Enhancement and Image Fusion
 [Enhancement ]
